@@ -1,0 +1,2523 @@
+Baktash Ansari
+
+RUNNING 20 EPISODES
+
+BEGINNING EPISODE: 1
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: west
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: south
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: south
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: south
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: south
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: west
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 1 COMPLETE: RETURN WAS 4.997995805289306e-05
+
+BEGINNING EPISODE: 2
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: east
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: south
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: east
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: south
+Ended in state: (2, 1)
+Got reward: 0.0
+
+Started in state: (2, 1)
+Took action: south
+Ended in state: (2, 0)
+Got reward: 0.0
+
+Started in state: (2, 0)
+Took action: east
+Ended in state: (3, 0)
+Got reward: 0.0
+
+Started in state: (3, 0)
+Took action: north
+Ended in state: (3, 1)
+Got reward: 0.0
+
+Started in state: (3, 1)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: -1
+
+EPISODE 2 COMPLETE: RETURN WAS -0.042391158275216244
+
+BEGINNING EPISODE: 3
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: north
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: north
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: north
+Ended in state: (2, 0)
+Got reward: 0.0
+
+Started in state: (2, 0)
+Took action: south
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: north
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: west
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: west
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: east
+Ended in state: (2, 0)
+Got reward: 0.0
+
+Started in state: (2, 0)
+Took action: south
+Ended in state: (2, 0)
+Got reward: 0.0
+
+Started in state: (2, 0)
+Took action: west
+Ended in state: (2, 1)
+Got reward: 0.0
+
+Started in state: (2, 1)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 3 COMPLETE: RETURN WAS 0.22876792454961012
+
+BEGINNING EPISODE: 4
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: south
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: south
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: south
+Ended in state: (2, 1)
+Got reward: 0.0
+
+Started in state: (2, 1)
+Took action: west
+Ended in state: (2, 1)
+Got reward: 0.0
+
+Started in state: (2, 1)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 4 COMPLETE: RETURN WAS 1.3480674533377557e-08
+
+BEGINNING EPISODE: 5
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: north
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: south
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: north
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (2, 1)
+Got reward: 0.0
+
+Started in state: (2, 1)
+Took action: east
+Ended in state: (3, 1)
+Got reward: 0.0
+
+Started in state: (3, 1)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: -1
+
+EPISODE 5 COMPLETE: RETURN WAS -0.08862938119652508
+
+BEGINNING EPISODE: 6
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: north
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 6 COMPLETE: RETURN WAS 0.31381059609000017
+
+BEGINNING EPISODE: 7
+
+Started in state: (0, 0)
+Took action: west
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 7 COMPLETE: RETURN WAS 0.47829690000000014
+
+BEGINNING EPISODE: 8
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: west
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 8 COMPLETE: RETURN WAS 0.1853020188851842
+
+BEGINNING EPISODE: 9
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (2, 1)
+Got reward: 0.0
+
+Started in state: (2, 1)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 9 COMPLETE: RETURN WAS 0.47829690000000014
+
+BEGINNING EPISODE: 10
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: west
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: south
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 10 COMPLETE: RETURN WAS 0.31381059609000017
+
+BEGINNING EPISODE: 11
+
+Started in state: (0, 0)
+Took action: south
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 11 COMPLETE: RETURN WAS 0.47829690000000014
+
+BEGINNING EPISODE: 12
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 12 COMPLETE: RETURN WAS 0.5314410000000002
+
+BEGINNING EPISODE: 13
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: south
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: south
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 13 COMPLETE: RETURN WAS 0.43046721000000016
+
+BEGINNING EPISODE: 14
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: east
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 14 COMPLETE: RETURN WAS 0.43046721000000016
+
+BEGINNING EPISODE: 15
+
+Started in state: (0, 0)
+Took action: south
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: south
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: south
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 15 COMPLETE: RETURN WAS 0.38742048900000015
+
+BEGINNING EPISODE: 16
+
+Started in state: (0, 0)
+Took action: west
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: east
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 16 COMPLETE: RETURN WAS 0.5314410000000002
+
+BEGINNING EPISODE: 17
+
+Started in state: (0, 0)
+Took action: south
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: south
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (2, 1)
+Got reward: 0.0
+
+Started in state: (2, 1)
+Took action: north
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 17 COMPLETE: RETURN WAS 0.38742048900000015
+
+BEGINNING EPISODE: 18
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: west
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: north
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: west
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 18 COMPLETE: RETURN WAS 0.31381059609000017
+
+BEGINNING EPISODE: 19
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 19 COMPLETE: RETURN WAS 0.47829690000000014
+
+BEGINNING EPISODE: 20
+
+Started in state: (0, 0)
+Took action: east
+Ended in state: (1, 0)
+Got reward: 0.0
+
+Started in state: (1, 0)
+Took action: north
+Ended in state: (0, 0)
+Got reward: 0.0
+
+Started in state: (0, 0)
+Took action: north
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (0, 1)
+Got reward: 0.0
+
+Started in state: (0, 1)
+Took action: north
+Ended in state: (0, 2)
+Got reward: 0.0
+
+Started in state: (0, 2)
+Took action: east
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: west
+Ended in state: (1, 2)
+Got reward: 0.0
+
+Started in state: (1, 2)
+Took action: east
+Ended in state: (2, 2)
+Got reward: 0.0
+
+Started in state: (2, 2)
+Took action: east
+Ended in state: (3, 2)
+Got reward: 0.0
+
+Started in state: (3, 2)
+Took action: exit
+Ended in state: TERMINAL_STATE
+Got reward: 1
+
+EPISODE 20 COMPLETE: RETURN WAS 0.31381059609000017
+
+
+AVERAGE RETURNS FROM START STATE: 0.3075093389880891
+
+
